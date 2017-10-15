@@ -6,9 +6,9 @@
             <name>Lab1Q8</name>
             <creation-uuid>772b3640-5fc0-456d-9e5d-e887603b19ae</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions/>
+            <c-extensions>c</c-extensions>
             <cpp-extensions/>
-            <header-extensions/>
+            <header-extensions>h</header-extensions>
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
